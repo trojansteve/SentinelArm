@@ -32,7 +32,7 @@ SentinelArm is a versatile and powerful macOS security research tool designed to
 ### Running the tool:
 
 ```bash
-python sentinelarm.py
+sudo python3 sentinelarm.py
 ```
 
 ### Example Output:
